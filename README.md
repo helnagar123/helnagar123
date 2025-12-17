@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hassan%20Elnagar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IoT%20%7C%20Data%20Science%20%7C%20Flutter&descAlignY=55&descAlign=50" alt="Hassan Elnagar Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hassan%20Elnagar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IoT%20%7C%20Data%20Science%20%7C%20AI%20%7C%20Web%20%7C%20Flutter&descAlignY=55&descAlign=50" alt="Hassan Elnagar Header" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions+from+Sensors+to+Apps;IoT+%7C+Data+Science+%7C+Big+Data;Flutter+%7C+Python+%7C+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions+from+Sensors+to+Apps;IoT+%7C+AI+%7C+Data+Science+%7C+Web+%7C+Flutter;Python+%7C+Flutter+%7C+Data+%7C+AI+Systems" alt="Typing SVG" />
 </p>
 
 <a href="https://www.linkedin.com/in/hassan-elnagar" target="_blank">
@@ -24,14 +24,15 @@
 
 ## Professional Profile
 
-I am a **Software Engineering student** at *Menoufia National University* with a strong passion for building **end-to-end intelligent systems**, starting from **IoT sensors** to **data analysis**, and finally **mobile & web applications**.
+I am a **Software Engineering student** at *Menoufia National University* with a strong passion for building **end-to-end intelligent systems**, starting from **IoT sensors**, moving through **AI & data analysis**, and finally delivering solutions via **web and mobile applications**.
 
-My background spans **IoT, Data Science, Big Data, and Mobile Development**, with hands-on experience in **Python, Flutter, and backend systems**. I enjoy solving real-world problems using data-driven approaches and scalable architectures.
+My background spans **IoT, AI, Data Science, Big Data, Web, and Mobile Development**, with hands-on experience in **Python, Flutter, backend systems, and analytics tools**. I focus on building solutions that are practical, scalable, and data-driven.
 
 **Core Competencies:**
 - **IoT Systems:** ESP32, MQTT, real-time sensor data, Wokwi simulation  
-- **Data & AI:** Data analysis, ML fundamentals, dashboards, and insights  
-- **Mobile Development:** Flutter apps with clean architecture and state management  
+- **AI & Data:** Data analysis, ML fundamentals, dashboards, insights  
+- **Web & Backend:** Flask-based systems, REST APIs, system integration  
+- **Mobile Development:** Flutter apps with clean architecture and GetX  
 - **Software Engineering:** Problem-solving, clean code, and system thinking  
 
 ---
